@@ -137,8 +137,20 @@ class HillCipher():
         return decrypted_msg    
 
     
-hill = HillCipher("HELLO WORLD")
-print(hill.encrypt())
+# hill = HillCipher("INI BUDI")
+# print(hill.encrypt())
 
-# cipher = HillCipher("AXDDHMIAPJHN")
+# hill = HillCipher("BUDI SUKA BELAJAR")
+# print(hill.encrypt())
+
+# hill = HillCipher("HILL CIPHER")
+# print(hill.encrypt())
+
+# cipher = HillCipher("DYJWWFOP")
+# print(cipher.decrypt())
+
+# cipher = HillCipher("WFOPEZYWTYGTWHSBRJ")
+# print(cipher.decrypt())
+
+# cipher = HillCipher("WBHZONFGSLRJ")
 # print(cipher.decrypt())
